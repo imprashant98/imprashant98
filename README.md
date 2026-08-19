@@ -87,6 +87,30 @@ Experienced in designing and deploying production-ready REST APIs, microservices
 
 ---
 
+## 📊 Live Profile Traffic & Visitor Insights
+
+<!-- Interactive Animated Traffic & Views Telemetry Widget -->
+<p align="center">
+  <a href="https://github.com/imprashant98/imprashant98/graphs/traffic" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="readmefile/views_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="readmefile/views_light.svg">
+      <img alt="Interactive Profile Views & Traffic" src="readmefile/views_dark.svg" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imprashant98/imprashant98/graphs/traffic" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=imprashant98&color=10B981&style=flat-square&label=LIVE+PROFILE+VIEWS" alt="Live Profile Views" />
+  </a>
+  <a href="https://github.com/imprashant98/imprashant98/graphs/traffic" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Traffic-Analytics%20%E2%86%97-0D9488?style=flat-square&logo=github" alt="Traffic Insights" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats & Metrics
 
 <!-- Sleek contribution activity graph with theme sensitivity -->
