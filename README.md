@@ -27,7 +27,7 @@ Experienced in designing and deploying production-ready REST APIs, microservices
 
 > 💡 *"Engineering robust backends and intelligent AI systems to turn complex challenges into seamless digital solutions."*
 
-- 💼 **Current Role:** Python & AI Developer at **Lyra Logics**
+- 💼 **Current Role:** Python & AI Developer | Python & Django Mentor
 - 🎓 **Education:** Bachelor of Computer Science and Engineering (CGPA: 3.76/4.00)
 - 💬 **Ask me about:** LLMs & RAG, AI Agents, Python/Django Architecture, AWS/Azure Cloud & Microservices
 - ✉️ **Email:** [prashantkarna21@gmail.com](mailto:prashantkarna21@gmail.com)
