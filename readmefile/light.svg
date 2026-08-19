@@ -379,7 +379,7 @@
       <svg viewBox="0 0 24 24" x="490" y="277" width="16" height="16">
         <path stroke="#475569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M22 10v6M2 10l10-5 10 5-10 5z M6 12v5c0 2 3 3 6 3s6-1 6-3v-5"/>
       </svg>
-      <text x="518" y="290" fill="#475569" font-size="14" class="font-sans">Education: <tspan fill="#0F172A" font-weight="500">B.S. in Computer Science &amp; Eng. (CGPA: 3.76)</tspan></text>
+      <text x="518" y="290" fill="#475569" font-size="14" class="font-sans">Education: <tspan fill="#0F172A" font-weight="500">B.Sc. (Engineering) in Computer Science &amp; Eng. (CGPA: 3.76)</tspan></text>
     </g>
 
     <!-- 3. Current Focus -->
