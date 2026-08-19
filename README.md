@@ -7,13 +7,14 @@
   <img alt="Prashant Karna Hero Banner" src="readmefile/dark.svg" width="100%">
 </picture>
 
+<!-- Live Interactive Telemetry Badges -->
 <p align="center">
   <a href="https://github.com/imprashant98/imprashant98/graphs/traffic" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=imprashant98&color=10B981&style=flat-square&label=LIVE+PROFILE+VIEWS" alt="Live Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=imprashant98&style=for-the-badge&color=10B981&label=⚡+LIVE+VISITORS" alt="Live Visitor Count" height="34" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/imprashant98/imprashant98/graphs/traffic" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Traffic-Analytics%20%E2%86%97-0D9488?style=flat-square&logo=github" alt="Traffic Analytics" />
+    <img src="https://img.shields.io/badge/GITHUB%20TRAFFIC-LIVE%20ANALYTICS%20%E2%86%97-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Traffic Analytics" height="34" />
   </a>
 </p>
 
